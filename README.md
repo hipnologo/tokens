@@ -23,3 +23,14 @@ To use these contracts, follow the steps below:
 2. Install [Node.js](https://nodejs.org/) and [Truffle Suite](https://trufflesuite.com/).
 3. Navigate to the project directory and run `npm install` to install dependencies.
 4. Use Truffle to compile and deploy the contracts.
+
+## Deployment:
+To deploy this contract, you would need a development environment set up for Solidity, such as Truffle Suite or Hardhat. Ensure that you have installed the necessary OpenZeppelin contracts using npm or yarn:
+
+```sh
+npm install @openzeppelin/contracts
+```
+or
+```sh
+yarn add @openzeppelin/contracts
+```
